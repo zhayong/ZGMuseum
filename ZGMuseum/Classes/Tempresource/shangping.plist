@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>iconName</key>
+		<string>shangping</string>
+		<key>name</key>
+		<string>恐龙玩具</string>
+		<key>introduction</key>
+		<string>恐龙玩具详情</string>
+		<key>saleCount</key>
+		<string>20</string>
+		<key>price</key>
+		<string>158</string>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string>shangping</string>
+		<key>name</key>
+		<string>恐龙玩具</string>
+		<key>introduction</key>
+		<string>恐龙玩具详情</string>
+		<key>saleCount</key>
+		<string>20</string>
+		<key>price</key>
+		<string>158</string>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string>shangping</string>
+		<key>name</key>
+		<string>恐龙玩具</string>
+		<key>introduction</key>
+		<string>恐龙玩具详情</string>
+		<key>saleCount</key>
+		<string>20</string>
+		<key>price</key>
+		<string>158</string>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string>shangping</string>
+		<key>name</key>
+		<string>恐龙玩具</string>
+		<key>introduction</key>
+		<string>恐龙玩具详情</string>
+		<key>saleCount</key>
+		<string>20</string>
+		<key>price</key>
+		<string>158</string>
+	</dict>
+	<dict>
+		<key>iconName</key>
+		<string>shangping</string>
+		<key>name</key>
+		<string>恐龙玩具</string>
+		<key>introduction</key>
+		<string>恐龙玩具详情</string>
+		<key>saleCount</key>
+		<string>20</string>
+		<key>price</key>
+		<string>158</string>
+	</dict>
+</array>
+</plist>

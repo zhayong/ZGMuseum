@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ExhibitionIntroduction</key>
+		<string>自贡恐龙博物馆大厅,进入大厅展现的是一个整体的特暴龙骨骼化石。</string>
+		<key>ExhibitionName</key>
+		<string>自贡恐龙博物馆大厅</string>
+		<key>imageName</key>
+		<string>exhibition</string>
+	</dict>
+	<dict>
+		<key>ExhibitionIntroduction</key>
+		<string>自贡恐龙博物馆大厅,进入大厅展现的是一个整体的特暴龙骨骼化石。</string>
+		<key>ExhibitionName</key>
+		<string>自贡恐龙博物馆大厅</string>
+		<key>imageName</key>
+		<string>exhibition</string>
+	</dict>
+	<dict>
+		<key>ExhibitionIntroduction</key>
+		<string>自贡恐龙博物馆大厅,进入大厅展现的是一个整体的特暴龙骨骼化石。</string>
+		<key>ExhibitionName</key>
+		<string>自贡恐龙博物馆大厅</string>
+		<key>imageName</key>
+		<string>exhibition</string>
+	</dict>
+	<dict>
+		<key>ExhibitionIntroduction</key>
+		<string>自贡恐龙博物馆大厅,进入大厅展现的是一个整体的特暴龙骨骼化石。</string>
+		<key>ExhibitionName</key>
+		<string>自贡恐龙博物馆大厅</string>
+		<key>imageName</key>
+		<string>exhibition</string>
+	</dict>
+	<dict>
+		<key>ExhibitionIntroduction</key>
+		<string>自贡恐龙博物馆大厅,进入大厅展现的是一个整体的特暴龙骨骼化石。</string>
+		<key>ExhibitionName</key>
+		<string>自贡恐龙博物馆大厅</string>
+		<key>imageName</key>
+		<string>exhibition</string>
+	</dict>
+</array>
+</plist>

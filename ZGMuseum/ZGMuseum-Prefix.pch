@@ -1,0 +1,36 @@
+//
+//  ZGMuseum-Prefix.pch
+//  ZGMuseum
+//
+//  Created by 卓谨科技 on 15/5/18.
+//  Copyright (c) 2015年 zhuojin. All rights reserved.
+//
+
+#ifndef ZGMuseum_ZGMuseum_Prefix_pch
+#define ZGMuseum_ZGMuseum_Prefix_pch
+
+#import "UIView+Positioning.h"
+#import "MJExtension.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+// 1.自定义Log
+#ifdef DEBUG
+#define ZYLog(...) NSLog(__VA_ARGS__)
+#else
+#define ZYLog(...)
+#endif
+
+// 2.系统版本
+#define SYSTEM_VERSION ([[UIDevice currentDevice].systemVersion doubleValue])
+
+// 3.屏幕尺寸
+#define SCREEN_RECT ([UIScreen mainScreen].bounds)
+
+// 4.获得RGB颜色
+#define ZGColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+
+
+
+#endif
